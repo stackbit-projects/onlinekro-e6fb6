@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # onlinekro - Apni Dukan
 
-sirf 200 i
+sirf 200 rupye me online 
