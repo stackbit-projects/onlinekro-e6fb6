@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Apni Dukan ko online ke liye [miliye telegram pr 
+Apni Dukan ko online ke liye [miliye telegram pr
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
